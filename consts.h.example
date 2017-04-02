@@ -1,0 +1,5 @@
+const char* ssid = "xxxxxxxxxx";
+const char* password = "xxxxxxxxxx";
+
+const char* otaHostname = "xxxxxxxxxx";
+const char* otaPassword = "xxxxxxxxxx";
