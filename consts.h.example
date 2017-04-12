@@ -1,5 +1,10 @@
+// WiFi Settings
 const char* ssid = "xxxxxxxxxx";
 const char* password = "xxxxxxxxxx";
 
-const char* otaHostname = "xxxxxxxxxx";
-const char* otaPassword = "xxxxxxxxxx";
+// InfluxDB Settings
+const char* influxdbAddress = "123.123.123.123";
+const int   influxdbPort    = 8086;
+const char* dbName    = "airmon";
+const char* seriesKey = "airmon";
+const char* seriesTag = "location=hogehoge";
